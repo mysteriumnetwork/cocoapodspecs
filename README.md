@@ -1,0 +1,2 @@
+# Specs
+Private cocoapods specs
