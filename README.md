@@ -1,2 +1,2 @@
-# Specs
-Private cocoapods specs
+# cocoapodspecs
+Custom cocoapods specs
