@@ -1,2 +1,2 @@
 # cocoapodspecs
-Custom cocoapods specs
+Cocoapod spec repository
